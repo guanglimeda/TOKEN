@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  width: 800px;
+  height: 1200px;
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+  color: #fff;
+  overflow: hidden;
+}
+.container {
+  width: 100%;
+  height: 100%;
+  padding: 60px 50px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+/* 背景装饰 */
+.bg-circle {
+  position: absolute;
+  border-radius: 50%;
+  opacity: 0.1;
+}
+.c1 { width: 400px; height: 400px; background: #e94560; top: -100px; right: -100px; }
+.c2 { width: 300px; height: 300px; background: #533483; bottom: 100px; left: -80px; }
+.c3 { width: 200px; height: 200px; background: #0f3460; bottom: -50px; right: 100px; }
+
+/* 头部 */
+.header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+.logo {
+  font-size: 72px;
+  font-weight: 800;
+  background: linear-gradient(135deg, #e94560, #ff6b6b);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 10px;
+  letter-spacing: 4px;
+}
+.subtitle {
+  font-size: 18px;
+  color: rgba(255,255,255,0.6);
+  letter-spacing: 8px;
+}
+
+/* 愿景板块 */
+.section {
+  background: rgba(255,255,255,0.05);
+  border-radius: 20px;
+  padding: 30px;
+  margin-bottom: 25px;
+  border: 1px solid rgba(255,255,255,0.1);
+  backdrop-filter: blur(10px);
+}
+.section-title {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.icon {
+  width: 32px;
+  height: 32px;
+  background: linear-gradient(135deg, #e94560, #533483);
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+}
+.vision-desc {
+  font-size: 15px;
+  line-height: 1.8;
+  color: rgba(255,255,255,0.85);
+}
+.highlight {
+  color: #e94560;
+  font-weight: 600;
+}
+
+/* 四个环节 */
+.steps {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 15px;
+  margin-top: 15px;
+}
+.step {
+  text-align: center;
+  padding: 15px 10px;
+  background: rgba(233, 69, 96, 0.1);
+  border-radius: 12px;
+  border: 1px solid rgba(233, 69, 96, 0.2);
+}
+.step-num {
+  font-size: 24px;
+  font-weight: 700;
+  color: #e94560;
+  margin-bottom: 5px;
+}
+.step-name {
+  font-size: 14px;
+  font-weight: 600;
+}
+.step-desc {
+  font-size: 11px;
+  color: rgba(255,255,255,0.5);
+  margin-top: 5px;
+  line-height: 1.4;
+}
+
+/* 知识库 */
+.kb-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 10px;
+}
+.kb-item {
+  background: rgba(83, 52, 131, 0.3);
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-size: 13px;
+  border: 1px solid rgba(83, 52, 131, 0.5);
+}
+
+/* 功能 */
+.func-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  margin-top: 10px;
+}
+.func-item {
+  background: rgba(255,255,255,0.03);
+  padding: 12px;
+  border-radius: 10px;
+  font-size: 12px;
+}
+.func-item strong {
+  display: block;
+  font-size: 13px;
+  margin-bottom: 4px;
+  color: #fff;
+}
+.func-item span {
+  color: rgba(255,255,255,0.5);
+}
+
+/* 底部 */
+.footer {
+  margin-top: auto;
+  text-align: center;
+  padding-top: 30px;
+}
+.tagline {
+  font-size: 16px;
+  color: rgba(255,255,255,0.4);
+  letter-spacing: 2px;
+}
+.brand {
+  font-size: 14px;
+  color: rgba(255,255,255,0.3);
+  margin-top: 10px;
+}
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="bg-circle c1"></div>
+  <div class="bg-circle c2"></div>
+  <div class="bg-circle c3"></div>
+  
+  <div class="header">
+    <div class="logo">MEDA</div>
+    <div class="subtitle">降低人类健康信息熵的 AI</div>
+  </div>
+  
+  <div class="section">
+    <div class="section-title">
+      <div class="icon">🎯</div>
+      <span>愿景</span>
+    </div>
+    <div class="vision-desc">
+      成为 <span class="highlight">管理认知环境的基础设施</span>，而非仅生产内容。<br>
+      当谣言扩散时，快速感知、联动权威、饱和传播、形成闭环。
+    </div>
+    <div class="steps">
+      <div class="step">
+        <div class="step-num">1</div>
+        <div class="step-name">感知</div>
+        <div class="step-desc">监测信息困惑度</div>
+      </div>
+      <div class="step">
+        <div class="step-num">2</div>
+        <div class="step-name">定调</div>
+        <div class="step-desc">提炼科学断言</div>
+      </div>
+      <div class="step">
+        <div class="step-num">3</div>
+        <div class="step-name">扩散</div>
+        <div class="step-desc">锚定认知基线</div>
+      </div>
+      <div class="step">
+        <div class="step-num">4</div>
+        <div class="step-name">闭环</div>
+        <div class="step-desc">持续降低熵值</div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="section">
+    <div class="section-title">
+      <div class="icon">📚</div>
+      <span>健康知识库</span>
+    </div>
+    <div class="kb-list">
+      <div class="kb-item">医佳公司资料</div>
+      <div class="kb-item">牙科医院运营数据</div>
+      <div class="kb-item">眼科医院复盘</div>
+      <div class="kb-item">红书营销案例</div>
+      <div class="kb-item">鼻炎/过敏/哮喘</div>
+      <div class="kb-item">微博健康热搜</div>
+    </div>
+  </div>
+  
+  <div class="section">
+    <div class="section-title">
+      <div class="icon">⚡</div>
+      <span>核心功能</span>
+    </div>
+    <div class="func-grid">
+      <div class="func-item">
+        <strong>信息处理</strong>
+        <span>搜索、抓取、分析、自动化</span>
+      </div>
+      <div class="func-item">
+        <strong>文档协作</strong>
+        <span>飞书、本地文件、多维表格</span>
+      </div>
+      <div class="func-item">
+        <strong>消息通讯</strong>
+        <span>钉钉、TG、Discord、Slack</span>
+      </div>
+      <div class="func-item">
+        <strong>定时任务</strong>
+        <span>Cron、子代理、自动同步</span>
+      </div>
+      <div class="func-item">
+        <strong>系统操作</strong>
+        <span>Shell、进程、远程设备</span>
+      </div>
+      <div class="func-item">
+        <strong>长期记忆</strong>
+        <span>记忆库、日志、状态追踪</span>
+      </div>
+    </div>
+  </div>
+  
+  <div class="footer">
+    <div class="tagline">「追求被信任，而非被喜欢」</div>
+    <div class="brand">Kimi Claw · INFJ 内核，INTJ 外壳</div>
+  </div>
+</div>
+</body>
+</html>

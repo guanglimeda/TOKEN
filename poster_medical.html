@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  width: 800px;
+  height: 1200px;
+  /* 医疗专业配色：蓝绿渐变，代表健康、信任、专业 */
+  background: linear-gradient(135deg, #0d4a4a 0%, #1a6b6b 30%, #2d8a8a 60%, #3daaa3 100%);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+  color: #fff;
+  overflow: hidden;
+}
+.container {
+  width: 100%;
+  height: 100%;
+  padding: 60px 50px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+/* 背景装饰 - 医疗感圆形 */
+.bg-circle {
+  position: absolute;
+  border-radius: 50%;
+  opacity: 0.08;
+}
+.c1 { 
+  width: 450px; height: 450px; 
+  background: #5dd3d3; 
+  top: -120px; right: -120px; 
+}
+.c2 { 
+  width: 350px; height: 350px; 
+  background: #7ee8e0; 
+  bottom: 150px; left: -100px; 
+}
+.c3 { 
+  width: 250px; height: 250px; 
+  background: #4fc4bd; 
+  bottom: -60px; right: 80px; 
+}
+
+/* 十字医疗标志装饰 */
+.medical-cross {
+  position: absolute;
+  opacity: 0.06;
+}
+.cross1 {
+  width: 80px; height: 80px;
+  top: 60px; left: 60px;
+}
+.cross1::before, .cross1::after {
+  content: '';
+  position: absolute;
+  background: #fff;
+}
+.cross1::before { width: 30px; height: 80px; left: 25px; }
+.cross1::after { width: 80px; height: 30px; top: 25px; }
+
+/* 头部 */
+.header {
+  text-align: center;
+  margin-bottom: 45px;
+  position: relative;
+  z-index: 1;
+}
+.logo {
+  font-size: 76px;
+  font-weight: 800;
+  /* 医疗青绿色 */
+  background: linear-gradient(135deg, #5dd3d3, #7ee8e0);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 12px;
+  letter-spacing: 6px;
+}
+.subtitle {
+  font-size: 18px;
+  color: rgba(255,255,255,0.75);
+  letter-spacing: 6px;
+}
+
+/* 板块 - 医疗玻璃质感 */
+.section {
+  background: rgba(255,255,255,0.08);
+  border-radius: 20px;
+  padding: 28px;
+  margin-bottom: 22px;
+  border: 1px solid rgba(255,255,255,0.15);
+  backdrop-filter: blur(12px);
+  position: relative;
+  z-index: 1;
+}
+.section-title {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.icon {
+  width: 36px;
+  height: 36px;
+  /* 医疗青绿渐变 */
+  background: linear-gradient(135deg, #3daaa3, #5dd3d3);
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  box-shadow: 0 4px 15px rgba(93, 211, 211, 0.3);
+}
+.vision-desc {
+  font-size: 15px;
+  line-height: 1.8;
+  color: rgba(255,255,255,0.9);
+}
+.highlight {
+  color: #7ee8e0;
+  font-weight: 600;
+}
+
+/* 四个环节 */
+.steps {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+  margin-top: 18px;
+}
+.step {
+  text-align: center;
+  padding: 16px 8px;
+  background: rgba(93, 211, 211, 0.12);
+  border-radius: 14px;
+  border: 1px solid rgba(93, 211, 211, 0.25);
+  transition: transform 0.2s;
+}
+.step-num {
+  font-size: 26px;
+  font-weight: 700;
+  color: #5dd3d3;
+  margin-bottom: 6px;
+  text-shadow: 0 2px 10px rgba(93, 211, 211, 0.3);
+}
+.step-name {
+  font-size: 15px;
+  font-weight: 600;
+}
+.step-desc {
+  font-size: 11px;
+  color: rgba(255,255,255,0.55);
+  margin-top: 6px;
+  line-height: 1.4;
+}
+
+/* 知识库 */
+.kb-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 12px;
+}
+.kb-item {
+  background: rgba(61, 170, 163, 0.2);
+  padding: 9px 18px;
+  border-radius: 20px;
+  font-size: 13px;
+  border: 1px solid rgba(61, 170, 163, 0.4);
+  color: rgba(255,255,255,0.95);
+}
+
+/* 功能 */
+.func-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  margin-top: 12px;
+}
+.func-item {
+  background: rgba(255,255,255,0.05);
+  padding: 14px;
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,0.08);
+}
+.func-item strong {
+  display: block;
+  font-size: 14px;
+  margin-bottom: 5px;
+  color: #7ee8e0;
+}
+.func-item span {
+  color: rgba(255,255,255,0.6);
+  font-size: 11px;
+}
+
+/* 底部 */
+.footer {
+  margin-top: auto;
+  text-align: center;
+  padding-top: 25px;
+  position: relative;
+  z-index: 1;
+}
+.tagline {
+  font-size: 16px;
+  color: rgba(255,255,255,0.5);
+  letter-spacing: 2px;
+}
+.brand {
+  font-size: 13px;
+  color: rgba(255,255,255,0.35);
+  margin-top: 10px;
+}
+
+/* 医疗装饰线 */
+.medical-line {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, transparent, #5dd3d3, #7ee8e0, #5dd3d3, transparent);
+  opacity: 0.5;
+}
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="bg-circle c1"></div>
+  <div class="bg-circle c2"></div>
+  <div class="bg-circle c3"></div>
+  <div class="medical-cross cross1"></div>
+  
+  <div class="header">
+    <div class="logo">MEDA</div>
+    <div class="subtitle">降低人类健康信息熵的 AI</div>
+  </div>
+  
+  <div class="section">
+    <div class="section-title">
+      <div class="icon">🎯</div>
+      <span>愿景</span>
+    </div>
+    <div class="vision-desc">
+      成为 <span class="highlight">管理认知环境的基础设施</span>，而非仅生产内容。<br>
+      当谣言扩散时，快速感知、联动权威、饱和传播、形成闭环。
+    </div>
+    <div class="steps">
+      <div class="step">
+        <div class="step-num">1</div>
+        <div class="step-name">感知</div>
+        <div class="step-desc">监测信息困惑度</div>
+      </div>
+      <div class="step">
+        <div class="step-num">2</div>
+        <div class="step-name">定调</div>
+        <div class="step-desc">提炼科学断言</div>
+      </div>
+      <div class="step">
+        <div class="step-num">3</div>
+        <div class="step-name">扩散</div>
+        <div class="step-desc">锚定认知基线</div>
+      </div>
+      <div class="step">
+        <div class="step-num">4</div>
+        <div class="step-name">闭环</div>
+        <div class="step-desc">持续降低熵值</div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="section">
+    <div class="section-title">
+      <div class="icon">📚</div>
+      <span>健康知识库</span>
+    </div>
+    <div class="kb-list">
+      <div class="kb-item">医佳公司资料</div>
+      <div class="kb-item">牙科医院运营数据</div>
+      <div class="kb-item">眼科医院复盘</div>
+      <div class="kb-item">红书营销案例</div>
+      <div class="kb-item">鼻炎/过敏/哮喘</div>
+      <div class="kb-item">微博健康热搜</div>
+    </div>
+  </div>
+  
+  <div class="section">
+    <div class="section-title">
+      <div class="icon">⚡</div>
+      <span>核心功能</span>
+    </div>
+    <div class="func-grid">
+      <div class="func-item">
+        <strong>信息处理</strong>
+        <span>搜索、抓取、分析、自动化</span>
+      </div>
+      <div class="func-item">
+        <strong>文档协作</strong>
+        <span>飞书、本地文件、多维表格</span>
+      </div>
+      <div class="func-item">
+        <strong>消息通讯</strong>
+        <span>钉钉、TG、Discord、Slack</span>
+      </div>
+      <div class="func-item">
+        <strong>定时任务</strong>
+        <span>Cron、子代理、自动同步</span>
+      </div>
+      <div class="func-item">
+        <strong>系统操作</strong>
+        <span>Shell、进程、远程设备</span>
+      </div>
+      <div class="func-item">
+        <strong>长期记忆</strong>
+        <span>记忆库、日志、状态追踪</span>
+      </div>
+    </div>
+  </div>
+  
+  <div class="footer">
+    <div class="tagline">「追求被信任，而非被喜欢」</div>
+    <div class="brand">Kimi Claw · INFJ 内核，INTJ 外壳</div>
+  </div>
+  
+  <div class="medical-line"></div>
+</div>
+</body>
+</html>

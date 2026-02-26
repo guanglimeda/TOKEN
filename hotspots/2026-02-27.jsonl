@@ -1,0 +1,8 @@
+{"timestamp": "2026-02-27T04:44:23.934934", "data": {"source": "weibo_crawler", "category": "医药", "rank": 1, "title": "测试热点话题 1", "hot_count": 900000, "timestamp": "2025-02-27T09:00:00+08:00"}}
+{"timestamp": "2026-02-27T04:44:23.944238", "data": {"source": "weibo_crawler", "category": "医药", "rank": 2, "title": "测试热点话题 2", "hot_count": 800000, "timestamp": "2025-02-27T010:00:00+08:00"}}
+{"timestamp": "2026-02-27T04:44:23.948572", "data": {"source": "weibo_crawler", "category": "医药", "rank": 3, "title": "测试热点话题 3", "hot_count": 700000, "timestamp": "2025-02-27T011:00:00+08:00"}}
+{"timestamp": "2026-02-27T04:44:23.952700", "data": {"source": "weibo_crawler", "category": "医药", "rank": 4, "title": "测试热点话题 4", "hot_count": 600000, "timestamp": "2025-02-27T012:00:00+08:00"}}
+{"timestamp": "2026-02-27T04:44:23.956930", "data": {"source": "weibo_crawler", "category": "医药", "rank": 5, "title": "测试热点话题 5", "hot_count": 500000, "timestamp": "2025-02-27T013:00:00+08:00"}}
+{"timestamp": "2026-02-27T04:44:23.960202", "data": {"source": "weibo_crawler", "category": "医美", "rank": 18, "title": "春季护肤新品推荐", "hot_count": 850000, "timestamp": "2025-02-27T10:30:00+08:00"}}
+{"timestamp": "2026-02-27T04:44:23.963508", "data": {"source": "weibo_crawler", "category": "眼科", "rank": 15, "title": "近视手术术后护理指南", "hot_count": 620000, "timestamp": "2025-02-27T14:20:00+08:00"}}
+{"timestamp": "2026-02-27T04:47:40.358476", "data": {"test": "ping"}}
