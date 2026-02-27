@@ -1,0 +1,880 @@
+{
+  "keyword": "生酮饮食",
+  "crawl_time": "2026-02-27T19:09:24.875956",
+  "total_count": 30,
+  "filter_rule": "comments < 100",
+  "notes": [
+    {
+      "note_id": "note_生酮饮食_0",
+      "keyword": "生酮饮食",
+      "title": "生酮饮食求建议 #0",
+      "url": "https://www.xiaohongshu.com/explore/note_生酮饮食_0",
+      "author": "用户57209",
+      "author_id": "user_53018",
+      "likes": "150",
+      "collects": "45",
+      "comments": "89",
+      "publish_time": "2026-02-16",
+      "content_text": "这是关于生酮饮食的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "饮食咨询",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "生酮饮食",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_生酮饮食_1",
+      "keyword": "生酮饮食",
+      "title": "生酮饮食有问题 #1",
+      "url": "https://www.xiaohongshu.com/explore/note_生酮饮食_1",
+      "author": "用户26094",
+      "author_id": "user_19439",
+      "likes": "120",
+      "collects": "23",
+      "comments": "89",
+      "publish_time": "2026-02-3",
+      "content_text": "这是关于生酮饮食的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "饮食咨询",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "生酮饮食",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_生酮饮食_2",
+      "keyword": "生酮饮食",
+      "title": "生酮饮食适合我吗 #2",
+      "url": "https://www.xiaohongshu.com/explore/note_生酮饮食_2",
+      "author": "用户83304",
+      "author_id": "user_30091",
+      "likes": "12",
+      "collects": "12",
+      "comments": "95",
+      "publish_time": "2026-02-5",
+      "content_text": "这是关于生酮饮食的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "饮食咨询",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "生酮饮食",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_生酮饮食_3",
+      "keyword": "生酮饮食",
+      "title": "生酮饮食有问题 #3",
+      "url": "https://www.xiaohongshu.com/explore/note_生酮饮食_3",
+      "author": "用户94581",
+      "author_id": "user_68690",
+      "likes": "120",
+      "collects": "12",
+      "comments": "23",
+      "publish_time": "2026-02-14",
+      "content_text": "这是关于生酮饮食的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "饮食咨询",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "生酮饮食",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_生酮饮食_4",
+      "keyword": "生酮饮食",
+      "title": "生酮饮食怎么入门 #4",
+      "url": "https://www.xiaohongshu.com/explore/note_生酮饮食_4",
+      "author": "用户54978",
+      "author_id": "user_46400",
+      "likes": "38",
+      "collects": "45",
+      "comments": "89",
+      "publish_time": "2026-02-19",
+      "content_text": "这是关于生酮饮食的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "饮食咨询",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "生酮饮食",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_生酮饮食_5",
+      "keyword": "生酮饮食",
+      "title": "生酮饮食有问题 #5",
+      "url": "https://www.xiaohongshu.com/explore/note_生酮饮食_5",
+      "author": "用户46483",
+      "author_id": "user_79468",
+      "likes": "38",
+      "collects": "34",
+      "comments": "23",
+      "publish_time": "2026-02-20",
+      "content_text": "这是关于生酮饮食的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "饮食咨询",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "生酮饮食",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_生酮饮食_6",
+      "keyword": "生酮饮食",
+      "title": "生酮饮食新手求助 #6",
+      "url": "https://www.xiaohongshu.com/explore/note_生酮饮食_6",
+      "author": "用户59846",
+      "author_id": "user_65515",
+      "likes": "120",
+      "collects": "23",
+      "comments": "56",
+      "publish_time": "2026-02-7",
+      "content_text": "这是关于生酮饮食的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "饮食咨询",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "生酮饮食",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_生酮饮食_7",
+      "keyword": "生酮饮食",
+      "title": "生酮饮食适合我吗 #7",
+      "url": "https://www.xiaohongshu.com/explore/note_生酮饮食_7",
+      "author": "用户53566",
+      "author_id": "user_11296",
+      "likes": "150",
+      "collects": "5",
+      "comments": "78",
+      "publish_time": "2026-02-14",
+      "content_text": "这是关于生酮饮食的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "饮食咨询",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "生酮饮食",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_生酮饮食_8",
+      "keyword": "生酮饮食",
+      "title": "生酮饮食怎么入门 #8",
+      "url": "https://www.xiaohongshu.com/explore/note_生酮饮食_8",
+      "author": "用户54328",
+      "author_id": "user_27224",
+      "likes": "120",
+      "collects": "5",
+      "comments": "95",
+      "publish_time": "2026-02-8",
+      "content_text": "这是关于生酮饮食的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "饮食咨询",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "生酮饮食",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_生酮饮食_9",
+      "keyword": "生酮饮食",
+      "title": "生酮饮食新手求助 #9",
+      "url": "https://www.xiaohongshu.com/explore/note_生酮饮食_9",
+      "author": "用户52481",
+      "author_id": "user_19156",
+      "likes": "120",
+      "collects": "12",
+      "comments": "95",
+      "publish_time": "2026-02-4",
+      "content_text": "这是关于生酮饮食的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "饮食咨询",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "生酮饮食",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_生酮饮食_10",
+      "keyword": "生酮饮食",
+      "title": "生酮饮食新手求助 #10",
+      "url": "https://www.xiaohongshu.com/explore/note_生酮饮食_10",
+      "author": "用户62533",
+      "author_id": "user_56658",
+      "likes": "12",
+      "collects": "34",
+      "comments": "56",
+      "publish_time": "2026-02-10",
+      "content_text": "这是关于生酮饮食的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "饮食咨询",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "生酮饮食",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_生酮饮食_11",
+      "keyword": "生酮饮食",
+      "title": "生酮饮食新手求助 #11",
+      "url": "https://www.xiaohongshu.com/explore/note_生酮饮食_11",
+      "author": "用户36642",
+      "author_id": "user_54675",
+      "likes": "120",
+      "collects": "56",
+      "comments": "3",
+      "publish_time": "2026-02-7",
+      "content_text": "这是关于生酮饮食的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "饮食咨询",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "生酮饮食",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_生酮饮食_12",
+      "keyword": "生酮饮食",
+      "title": "生酮饮食适合我吗 #12",
+      "url": "https://www.xiaohongshu.com/explore/note_生酮饮食_12",
+      "author": "用户68600",
+      "author_id": "user_39658",
+      "likes": "89",
+      "collects": "23",
+      "comments": "23",
+      "publish_time": "2026-02-10",
+      "content_text": "这是关于生酮饮食的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "饮食咨询",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "生酮饮食",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_生酮饮食_13",
+      "keyword": "生酮饮食",
+      "title": "生酮饮食有问题 #13",
+      "url": "https://www.xiaohongshu.com/explore/note_生酮饮食_13",
+      "author": "用户25922",
+      "author_id": "user_22132",
+      "likes": "38",
+      "collects": "56",
+      "comments": "34",
+      "publish_time": "2026-02-3",
+      "content_text": "这是关于生酮饮食的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "饮食咨询",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "生酮饮食",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_生酮饮食_14",
+      "keyword": "生酮饮食",
+      "title": "生酮饮食有问题 #14",
+      "url": "https://www.xiaohongshu.com/explore/note_生酮饮食_14",
+      "author": "用户17274",
+      "author_id": "user_20793",
+      "likes": "12",
+      "collects": "45",
+      "comments": "78",
+      "publish_time": "2026-02-8",
+      "content_text": "这是关于生酮饮食的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "饮食咨询",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "生酮饮食",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_生酮饮食_15",
+      "keyword": "生酮饮食",
+      "title": "生酮饮食求建议 #15",
+      "url": "https://www.xiaohongshu.com/explore/note_生酮饮食_15",
+      "author": "用户32483",
+      "author_id": "user_32462",
+      "likes": "38",
+      "collects": "45",
+      "comments": "8",
+      "publish_time": "2026-02-20",
+      "content_text": "这是关于生酮饮食的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "饮食咨询",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "生酮饮食",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_生酮饮食_16",
+      "keyword": "生酮饮食",
+      "title": "生酮饮食求建议 #16",
+      "url": "https://www.xiaohongshu.com/explore/note_生酮饮食_16",
+      "author": "用户91316",
+      "author_id": "user_57047",
+      "likes": "25",
+      "collects": "23",
+      "comments": "34",
+      "publish_time": "2026-02-16",
+      "content_text": "这是关于生酮饮食的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "饮食咨询",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "生酮饮食",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_生酮饮食_17",
+      "keyword": "生酮饮食",
+      "title": "生酮饮食怎么入门 #17",
+      "url": "https://www.xiaohongshu.com/explore/note_生酮饮食_17",
+      "author": "用户22952",
+      "author_id": "user_77663",
+      "likes": "12",
+      "collects": "34",
+      "comments": "78",
+      "publish_time": "2026-02-3",
+      "content_text": "这是关于生酮饮食的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "饮食咨询",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "生酮饮食",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_生酮饮食_18",
+      "keyword": "生酮饮食",
+      "title": "生酮饮食有问题 #18",
+      "url": "https://www.xiaohongshu.com/explore/note_生酮饮食_18",
+      "author": "用户98891",
+      "author_id": "user_35948",
+      "likes": "38",
+      "collects": "12",
+      "comments": "89",
+      "publish_time": "2026-02-6",
+      "content_text": "这是关于生酮饮食的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "饮食咨询",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "生酮饮食",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_生酮饮食_19",
+      "keyword": "生酮饮食",
+      "title": "生酮饮食怎么入门 #19",
+      "url": "https://www.xiaohongshu.com/explore/note_生酮饮食_19",
+      "author": "用户99133",
+      "author_id": "user_61583",
+      "likes": "150",
+      "collects": "5",
+      "comments": "56",
+      "publish_time": "2026-02-18",
+      "content_text": "这是关于生酮饮食的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "饮食咨询",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "生酮饮食",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_生酮饮食_20",
+      "keyword": "生酮饮食",
+      "title": "生酮饮食适合我吗 #20",
+      "url": "https://www.xiaohongshu.com/explore/note_生酮饮食_20",
+      "author": "用户81718",
+      "author_id": "user_73279",
+      "likes": "25",
+      "collects": "34",
+      "comments": "95",
+      "publish_time": "2026-02-5",
+      "content_text": "这是关于生酮饮食的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "饮食咨询",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "生酮饮食",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_生酮饮食_21",
+      "keyword": "生酮饮食",
+      "title": "生酮饮食适合我吗 #21",
+      "url": "https://www.xiaohongshu.com/explore/note_生酮饮食_21",
+      "author": "用户94724",
+      "author_id": "user_86396",
+      "likes": "120",
+      "collects": "12",
+      "comments": "15",
+      "publish_time": "2026-02-11",
+      "content_text": "这是关于生酮饮食的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "饮食咨询",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "生酮饮食",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_生酮饮食_22",
+      "keyword": "生酮饮食",
+      "title": "生酮饮食新手求助 #22",
+      "url": "https://www.xiaohongshu.com/explore/note_生酮饮食_22",
+      "author": "用户94489",
+      "author_id": "user_33356",
+      "likes": "89",
+      "collects": "45",
+      "comments": "95",
+      "publish_time": "2026-02-9",
+      "content_text": "这是关于生酮饮食的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "饮食咨询",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "生酮饮食",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_生酮饮食_23",
+      "keyword": "生酮饮食",
+      "title": "生酮饮食适合我吗 #23",
+      "url": "https://www.xiaohongshu.com/explore/note_生酮饮食_23",
+      "author": "用户85029",
+      "author_id": "user_54301",
+      "likes": "52",
+      "collects": "45",
+      "comments": "78",
+      "publish_time": "2026-02-13",
+      "content_text": "这是关于生酮饮食的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "饮食咨询",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "生酮饮食",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_生酮饮食_24",
+      "keyword": "生酮饮食",
+      "title": "生酮饮食有问题 #24",
+      "url": "https://www.xiaohongshu.com/explore/note_生酮饮食_24",
+      "author": "用户80597",
+      "author_id": "user_47895",
+      "likes": "120",
+      "collects": "45",
+      "comments": "15",
+      "publish_time": "2026-02-18",
+      "content_text": "这是关于生酮饮食的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "饮食咨询",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "生酮饮食",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_生酮饮食_25",
+      "keyword": "生酮饮食",
+      "title": "生酮饮食求建议 #25",
+      "url": "https://www.xiaohongshu.com/explore/note_生酮饮食_25",
+      "author": "用户19654",
+      "author_id": "user_79392",
+      "likes": "89",
+      "collects": "5",
+      "comments": "95",
+      "publish_time": "2026-02-19",
+      "content_text": "这是关于生酮饮食的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "饮食咨询",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "生酮饮食",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_生酮饮食_26",
+      "keyword": "生酮饮食",
+      "title": "生酮饮食求建议 #26",
+      "url": "https://www.xiaohongshu.com/explore/note_生酮饮食_26",
+      "author": "用户28746",
+      "author_id": "user_24025",
+      "likes": "150",
+      "collects": "12",
+      "comments": "89",
+      "publish_time": "2026-02-12",
+      "content_text": "这是关于生酮饮食的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "饮食咨询",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "生酮饮食",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_生酮饮食_27",
+      "keyword": "生酮饮食",
+      "title": "生酮饮食适合我吗 #27",
+      "url": "https://www.xiaohongshu.com/explore/note_生酮饮食_27",
+      "author": "用户99554",
+      "author_id": "user_97465",
+      "likes": "38",
+      "collects": "23",
+      "comments": "34",
+      "publish_time": "2026-02-13",
+      "content_text": "这是关于生酮饮食的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "饮食咨询",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "生酮饮食",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_生酮饮食_28",
+      "keyword": "生酮饮食",
+      "title": "生酮饮食新手求助 #28",
+      "url": "https://www.xiaohongshu.com/explore/note_生酮饮食_28",
+      "author": "用户81445",
+      "author_id": "user_36894",
+      "likes": "120",
+      "collects": "45",
+      "comments": "8",
+      "publish_time": "2026-02-7",
+      "content_text": "这是关于生酮饮食的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "饮食咨询",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "生酮饮食",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_生酮饮食_29",
+      "keyword": "生酮饮食",
+      "title": "生酮饮食有问题 #29",
+      "url": "https://www.xiaohongshu.com/explore/note_生酮饮食_29",
+      "author": "用户86105",
+      "author_id": "user_16776",
+      "likes": "12",
+      "collects": "23",
+      "comments": "3",
+      "publish_time": "2026-02-11",
+      "content_text": "这是关于生酮饮食的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "饮食咨询",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "生酮饮食",
+        "减肥",
+        "求助"
+      ]
+    }
+  ],
+  "source": "xiaohongshu",
+  "status": "demo_data"
+}

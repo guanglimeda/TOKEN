@@ -1,0 +1,880 @@
+{
+  "keyword": "减肥",
+  "crawl_time": "2026-02-27T19:09:21.585940",
+  "total_count": 30,
+  "filter_rule": "comments < 100",
+  "notes": [
+    {
+      "note_id": "note_减肥_0",
+      "keyword": "减肥",
+      "title": "减肥求指导 #0",
+      "url": "https://www.xiaohongshu.com/explore/note_减肥_0",
+      "author": "用户84484",
+      "author_id": "user_33419",
+      "likes": "120",
+      "collects": "34",
+      "comments": "3",
+      "publish_time": "2026-02-19",
+      "content_text": "这是关于减肥的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "减肥",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_减肥_1",
+      "keyword": "减肥",
+      "title": "减肥求指导 #1",
+      "url": "https://www.xiaohongshu.com/explore/note_减肥_1",
+      "author": "用户99557",
+      "author_id": "user_62387",
+      "likes": "52",
+      "collects": "56",
+      "comments": "3",
+      "publish_time": "2026-02-5",
+      "content_text": "这是关于减肥的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "减肥",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_减肥_2",
+      "keyword": "减肥",
+      "title": "减肥怎么开始 #2",
+      "url": "https://www.xiaohongshu.com/explore/note_减肥_2",
+      "author": "用户42650",
+      "author_id": "user_64373",
+      "likes": "120",
+      "collects": "56",
+      "comments": "89",
+      "publish_time": "2026-02-17",
+      "content_text": "这是关于减肥的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "减肥",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_减肥_3",
+      "keyword": "减肥",
+      "title": "减肥求方法 #3",
+      "url": "https://www.xiaohongshu.com/explore/note_减肥_3",
+      "author": "用户12447",
+      "author_id": "user_79108",
+      "likes": "38",
+      "collects": "23",
+      "comments": "45",
+      "publish_time": "2026-02-17",
+      "content_text": "这是关于减肥的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "减肥",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_减肥_4",
+      "keyword": "减肥",
+      "title": "减肥怎么开始 #4",
+      "url": "https://www.xiaohongshu.com/explore/note_减肥_4",
+      "author": "用户36271",
+      "author_id": "user_35942",
+      "likes": "52",
+      "collects": "12",
+      "comments": "23",
+      "publish_time": "2026-02-12",
+      "content_text": "这是关于减肥的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "减肥",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_减肥_5",
+      "keyword": "减肥",
+      "title": "减肥怎么开始 #5",
+      "url": "https://www.xiaohongshu.com/explore/note_减肥_5",
+      "author": "用户92039",
+      "author_id": "user_58606",
+      "likes": "25",
+      "collects": "34",
+      "comments": "3",
+      "publish_time": "2026-02-5",
+      "content_text": "这是关于减肥的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "减肥",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_减肥_6",
+      "keyword": "减肥",
+      "title": "减肥有经验吗 #6",
+      "url": "https://www.xiaohongshu.com/explore/note_减肥_6",
+      "author": "用户56335",
+      "author_id": "user_46882",
+      "likes": "150",
+      "collects": "5",
+      "comments": "23",
+      "publish_time": "2026-02-18",
+      "content_text": "这是关于减肥的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "减肥",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_减肥_7",
+      "keyword": "减肥",
+      "title": "减肥求方法 #7",
+      "url": "https://www.xiaohongshu.com/explore/note_减肥_7",
+      "author": "用户64492",
+      "author_id": "user_79995",
+      "likes": "38",
+      "collects": "5",
+      "comments": "15",
+      "publish_time": "2026-02-7",
+      "content_text": "这是关于减肥的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "减肥",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_减肥_8",
+      "keyword": "减肥",
+      "title": "减肥求方法 #8",
+      "url": "https://www.xiaohongshu.com/explore/note_减肥_8",
+      "author": "用户53145",
+      "author_id": "user_59650",
+      "likes": "120",
+      "collects": "45",
+      "comments": "78",
+      "publish_time": "2026-02-10",
+      "content_text": "这是关于减肥的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "减肥",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_减肥_9",
+      "keyword": "减肥",
+      "title": "减肥有经验吗 #9",
+      "url": "https://www.xiaohongshu.com/explore/note_减肥_9",
+      "author": "用户20336",
+      "author_id": "user_81199",
+      "likes": "52",
+      "collects": "5",
+      "comments": "95",
+      "publish_time": "2026-02-10",
+      "content_text": "这是关于减肥的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "减肥",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_减肥_10",
+      "keyword": "减肥",
+      "title": "减肥求指导 #10",
+      "url": "https://www.xiaohongshu.com/explore/note_减肥_10",
+      "author": "用户18267",
+      "author_id": "user_48984",
+      "likes": "52",
+      "collects": "34",
+      "comments": "45",
+      "publish_time": "2026-02-13",
+      "content_text": "这是关于减肥的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "减肥",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_减肥_11",
+      "keyword": "减肥",
+      "title": "减肥求方法 #11",
+      "url": "https://www.xiaohongshu.com/explore/note_减肥_11",
+      "author": "用户38770",
+      "author_id": "user_50187",
+      "likes": "120",
+      "collects": "12",
+      "comments": "45",
+      "publish_time": "2026-02-3",
+      "content_text": "这是关于减肥的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "减肥",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_减肥_12",
+      "keyword": "减肥",
+      "title": "减肥怎么开始 #12",
+      "url": "https://www.xiaohongshu.com/explore/note_减肥_12",
+      "author": "用户74240",
+      "author_id": "user_53899",
+      "likes": "120",
+      "collects": "45",
+      "comments": "15",
+      "publish_time": "2026-02-5",
+      "content_text": "这是关于减肥的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "减肥",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_减肥_13",
+      "keyword": "减肥",
+      "title": "减肥有经验吗 #13",
+      "url": "https://www.xiaohongshu.com/explore/note_减肥_13",
+      "author": "用户52548",
+      "author_id": "user_99030",
+      "likes": "89",
+      "collects": "45",
+      "comments": "95",
+      "publish_time": "2026-02-10",
+      "content_text": "这是关于减肥的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "减肥",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_减肥_14",
+      "keyword": "减肥",
+      "title": "减肥怎么开始 #14",
+      "url": "https://www.xiaohongshu.com/explore/note_减肥_14",
+      "author": "用户92990",
+      "author_id": "user_71288",
+      "likes": "12",
+      "collects": "56",
+      "comments": "8",
+      "publish_time": "2026-02-1",
+      "content_text": "这是关于减肥的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "减肥",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_减肥_15",
+      "keyword": "减肥",
+      "title": "减肥求方法 #15",
+      "url": "https://www.xiaohongshu.com/explore/note_减肥_15",
+      "author": "用户10228",
+      "author_id": "user_13736",
+      "likes": "120",
+      "collects": "5",
+      "comments": "23",
+      "publish_time": "2026-02-15",
+      "content_text": "这是关于减肥的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "减肥",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_减肥_16",
+      "keyword": "减肥",
+      "title": "减肥求指导 #16",
+      "url": "https://www.xiaohongshu.com/explore/note_减肥_16",
+      "author": "用户30937",
+      "author_id": "user_45767",
+      "likes": "38",
+      "collects": "56",
+      "comments": "3",
+      "publish_time": "2026-02-16",
+      "content_text": "这是关于减肥的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "减肥",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_减肥_17",
+      "keyword": "减肥",
+      "title": "减肥求助帖 #17",
+      "url": "https://www.xiaohongshu.com/explore/note_减肥_17",
+      "author": "用户53636",
+      "author_id": "user_56066",
+      "likes": "150",
+      "collects": "34",
+      "comments": "34",
+      "publish_time": "2026-02-5",
+      "content_text": "这是关于减肥的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "减肥",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_减肥_18",
+      "keyword": "减肥",
+      "title": "减肥求方法 #18",
+      "url": "https://www.xiaohongshu.com/explore/note_减肥_18",
+      "author": "用户98351",
+      "author_id": "user_82932",
+      "likes": "38",
+      "collects": "56",
+      "comments": "89",
+      "publish_time": "2026-02-17",
+      "content_text": "这是关于减肥的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "减肥",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_减肥_19",
+      "keyword": "减肥",
+      "title": "减肥求助帖 #19",
+      "url": "https://www.xiaohongshu.com/explore/note_减肥_19",
+      "author": "用户57360",
+      "author_id": "user_84559",
+      "likes": "12",
+      "collects": "45",
+      "comments": "23",
+      "publish_time": "2026-02-4",
+      "content_text": "这是关于减肥的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "减肥",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_减肥_20",
+      "keyword": "减肥",
+      "title": "减肥求助帖 #20",
+      "url": "https://www.xiaohongshu.com/explore/note_减肥_20",
+      "author": "用户40870",
+      "author_id": "user_48508",
+      "likes": "52",
+      "collects": "56",
+      "comments": "56",
+      "publish_time": "2026-02-7",
+      "content_text": "这是关于减肥的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "减肥",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_减肥_21",
+      "keyword": "减肥",
+      "title": "减肥求指导 #21",
+      "url": "https://www.xiaohongshu.com/explore/note_减肥_21",
+      "author": "用户15588",
+      "author_id": "user_42208",
+      "likes": "25",
+      "collects": "12",
+      "comments": "15",
+      "publish_time": "2026-02-14",
+      "content_text": "这是关于减肥的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "减肥",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_减肥_22",
+      "keyword": "减肥",
+      "title": "减肥怎么开始 #22",
+      "url": "https://www.xiaohongshu.com/explore/note_减肥_22",
+      "author": "用户29266",
+      "author_id": "user_59614",
+      "likes": "12",
+      "collects": "12",
+      "comments": "56",
+      "publish_time": "2026-02-12",
+      "content_text": "这是关于减肥的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "减肥",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_减肥_23",
+      "keyword": "减肥",
+      "title": "减肥怎么开始 #23",
+      "url": "https://www.xiaohongshu.com/explore/note_减肥_23",
+      "author": "用户97991",
+      "author_id": "user_68935",
+      "likes": "52",
+      "collects": "34",
+      "comments": "78",
+      "publish_time": "2026-02-4",
+      "content_text": "这是关于减肥的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "减肥",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_减肥_24",
+      "keyword": "减肥",
+      "title": "减肥求指导 #24",
+      "url": "https://www.xiaohongshu.com/explore/note_减肥_24",
+      "author": "用户54194",
+      "author_id": "user_32097",
+      "likes": "25",
+      "collects": "56",
+      "comments": "95",
+      "publish_time": "2026-02-7",
+      "content_text": "这是关于减肥的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "减肥",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_减肥_25",
+      "keyword": "减肥",
+      "title": "减肥求指导 #25",
+      "url": "https://www.xiaohongshu.com/explore/note_减肥_25",
+      "author": "用户46516",
+      "author_id": "user_21151",
+      "likes": "52",
+      "collects": "56",
+      "comments": "78",
+      "publish_time": "2026-02-16",
+      "content_text": "这是关于减肥的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "减肥",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_减肥_26",
+      "keyword": "减肥",
+      "title": "减肥怎么开始 #26",
+      "url": "https://www.xiaohongshu.com/explore/note_减肥_26",
+      "author": "用户39373",
+      "author_id": "user_95409",
+      "likes": "38",
+      "collects": "5",
+      "comments": "15",
+      "publish_time": "2026-02-12",
+      "content_text": "这是关于减肥的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "减肥",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_减肥_27",
+      "keyword": "减肥",
+      "title": "减肥有经验吗 #27",
+      "url": "https://www.xiaohongshu.com/explore/note_减肥_27",
+      "author": "用户81262",
+      "author_id": "user_24975",
+      "likes": "25",
+      "collects": "23",
+      "comments": "34",
+      "publish_time": "2026-02-10",
+      "content_text": "这是关于减肥的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "减肥",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_减肥_28",
+      "keyword": "减肥",
+      "title": "减肥怎么开始 #28",
+      "url": "https://www.xiaohongshu.com/explore/note_减肥_28",
+      "author": "用户29777",
+      "author_id": "user_50269",
+      "likes": "120",
+      "collects": "5",
+      "comments": "34",
+      "publish_time": "2026-02-2",
+      "content_text": "这是关于减肥的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "减肥",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_减肥_29",
+      "keyword": "减肥",
+      "title": "减肥求方法 #29",
+      "url": "https://www.xiaohongshu.com/explore/note_减肥_29",
+      "author": "用户94087",
+      "author_id": "user_68376",
+      "likes": "52",
+      "collects": "12",
+      "comments": "3",
+      "publish_time": "2026-02-11",
+      "content_text": "这是关于减肥的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "减肥",
+        "减肥",
+        "求助"
+      ]
+    }
+  ],
+  "source": "xiaohongshu",
+  "status": "demo_data"
+}

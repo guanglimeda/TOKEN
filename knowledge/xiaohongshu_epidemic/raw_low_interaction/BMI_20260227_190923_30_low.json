@@ -1,0 +1,880 @@
+{
+  "keyword": "BMI",
+  "crawl_time": "2026-02-27T19:09:23.714737",
+  "total_count": 30,
+  "filter_rule": "comments < 100",
+  "notes": [
+    {
+      "note_id": "note_BMI_0",
+      "keyword": "BMI",
+      "title": "BMI求方法 #0",
+      "url": "https://www.xiaohongshu.com/explore/note_BMI_0",
+      "author": "用户32531",
+      "author_id": "user_83321",
+      "likes": "120",
+      "collects": "56",
+      "comments": "78",
+      "publish_time": "2026-02-18",
+      "content_text": "这是关于BMI的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "BMI",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_BMI_1",
+      "keyword": "BMI",
+      "title": "BMI求助帖 #1",
+      "url": "https://www.xiaohongshu.com/explore/note_BMI_1",
+      "author": "用户64848",
+      "author_id": "user_17436",
+      "likes": "52",
+      "collects": "56",
+      "comments": "3",
+      "publish_time": "2026-02-1",
+      "content_text": "这是关于BMI的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "BMI",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_BMI_2",
+      "keyword": "BMI",
+      "title": "BMI求方法 #2",
+      "url": "https://www.xiaohongshu.com/explore/note_BMI_2",
+      "author": "用户30491",
+      "author_id": "user_13658",
+      "likes": "150",
+      "collects": "45",
+      "comments": "23",
+      "publish_time": "2026-02-16",
+      "content_text": "这是关于BMI的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "BMI",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_BMI_3",
+      "keyword": "BMI",
+      "title": "BMI求助帖 #3",
+      "url": "https://www.xiaohongshu.com/explore/note_BMI_3",
+      "author": "用户92522",
+      "author_id": "user_41412",
+      "likes": "25",
+      "collects": "12",
+      "comments": "15",
+      "publish_time": "2026-02-1",
+      "content_text": "这是关于BMI的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "BMI",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_BMI_4",
+      "keyword": "BMI",
+      "title": "BMI求指导 #4",
+      "url": "https://www.xiaohongshu.com/explore/note_BMI_4",
+      "author": "用户28763",
+      "author_id": "user_75348",
+      "likes": "12",
+      "collects": "34",
+      "comments": "15",
+      "publish_time": "2026-02-1",
+      "content_text": "这是关于BMI的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "BMI",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_BMI_5",
+      "keyword": "BMI",
+      "title": "BMI求方法 #5",
+      "url": "https://www.xiaohongshu.com/explore/note_BMI_5",
+      "author": "用户30654",
+      "author_id": "user_34080",
+      "likes": "12",
+      "collects": "5",
+      "comments": "3",
+      "publish_time": "2026-02-8",
+      "content_text": "这是关于BMI的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "BMI",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_BMI_6",
+      "keyword": "BMI",
+      "title": "BMI求方法 #6",
+      "url": "https://www.xiaohongshu.com/explore/note_BMI_6",
+      "author": "用户89259",
+      "author_id": "user_15189",
+      "likes": "120",
+      "collects": "45",
+      "comments": "78",
+      "publish_time": "2026-02-19",
+      "content_text": "这是关于BMI的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "BMI",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_BMI_7",
+      "keyword": "BMI",
+      "title": "BMI怎么开始 #7",
+      "url": "https://www.xiaohongshu.com/explore/note_BMI_7",
+      "author": "用户39774",
+      "author_id": "user_90298",
+      "likes": "38",
+      "collects": "56",
+      "comments": "56",
+      "publish_time": "2026-02-16",
+      "content_text": "这是关于BMI的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "BMI",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_BMI_8",
+      "keyword": "BMI",
+      "title": "BMI求方法 #8",
+      "url": "https://www.xiaohongshu.com/explore/note_BMI_8",
+      "author": "用户67710",
+      "author_id": "user_71023",
+      "likes": "150",
+      "collects": "5",
+      "comments": "95",
+      "publish_time": "2026-02-6",
+      "content_text": "这是关于BMI的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "BMI",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_BMI_9",
+      "keyword": "BMI",
+      "title": "BMI求指导 #9",
+      "url": "https://www.xiaohongshu.com/explore/note_BMI_9",
+      "author": "用户35888",
+      "author_id": "user_74652",
+      "likes": "25",
+      "collects": "45",
+      "comments": "34",
+      "publish_time": "2026-02-13",
+      "content_text": "这是关于BMI的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "BMI",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_BMI_10",
+      "keyword": "BMI",
+      "title": "BMI有经验吗 #10",
+      "url": "https://www.xiaohongshu.com/explore/note_BMI_10",
+      "author": "用户94994",
+      "author_id": "user_36783",
+      "likes": "38",
+      "collects": "5",
+      "comments": "56",
+      "publish_time": "2026-02-1",
+      "content_text": "这是关于BMI的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "BMI",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_BMI_11",
+      "keyword": "BMI",
+      "title": "BMI怎么开始 #11",
+      "url": "https://www.xiaohongshu.com/explore/note_BMI_11",
+      "author": "用户21907",
+      "author_id": "user_26241",
+      "likes": "89",
+      "collects": "23",
+      "comments": "78",
+      "publish_time": "2026-02-6",
+      "content_text": "这是关于BMI的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "BMI",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_BMI_12",
+      "keyword": "BMI",
+      "title": "BMI怎么开始 #12",
+      "url": "https://www.xiaohongshu.com/explore/note_BMI_12",
+      "author": "用户71505",
+      "author_id": "user_64150",
+      "likes": "120",
+      "collects": "45",
+      "comments": "3",
+      "publish_time": "2026-02-8",
+      "content_text": "这是关于BMI的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "BMI",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_BMI_13",
+      "keyword": "BMI",
+      "title": "BMI求指导 #13",
+      "url": "https://www.xiaohongshu.com/explore/note_BMI_13",
+      "author": "用户13495",
+      "author_id": "user_47505",
+      "likes": "38",
+      "collects": "5",
+      "comments": "95",
+      "publish_time": "2026-02-2",
+      "content_text": "这是关于BMI的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "BMI",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_BMI_14",
+      "keyword": "BMI",
+      "title": "BMI有经验吗 #14",
+      "url": "https://www.xiaohongshu.com/explore/note_BMI_14",
+      "author": "用户87557",
+      "author_id": "user_68956",
+      "likes": "38",
+      "collects": "23",
+      "comments": "3",
+      "publish_time": "2026-02-9",
+      "content_text": "这是关于BMI的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "BMI",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_BMI_15",
+      "keyword": "BMI",
+      "title": "BMI怎么开始 #15",
+      "url": "https://www.xiaohongshu.com/explore/note_BMI_15",
+      "author": "用户93321",
+      "author_id": "user_17093",
+      "likes": "12",
+      "collects": "34",
+      "comments": "45",
+      "publish_time": "2026-02-2",
+      "content_text": "这是关于BMI的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "BMI",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_BMI_16",
+      "keyword": "BMI",
+      "title": "BMI求助帖 #16",
+      "url": "https://www.xiaohongshu.com/explore/note_BMI_16",
+      "author": "用户59194",
+      "author_id": "user_75773",
+      "likes": "150",
+      "collects": "56",
+      "comments": "15",
+      "publish_time": "2026-02-10",
+      "content_text": "这是关于BMI的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "BMI",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_BMI_17",
+      "keyword": "BMI",
+      "title": "BMI求指导 #17",
+      "url": "https://www.xiaohongshu.com/explore/note_BMI_17",
+      "author": "用户74706",
+      "author_id": "user_60224",
+      "likes": "89",
+      "collects": "34",
+      "comments": "56",
+      "publish_time": "2026-02-6",
+      "content_text": "这是关于BMI的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "BMI",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_BMI_18",
+      "keyword": "BMI",
+      "title": "BMI求方法 #18",
+      "url": "https://www.xiaohongshu.com/explore/note_BMI_18",
+      "author": "用户47748",
+      "author_id": "user_56515",
+      "likes": "12",
+      "collects": "56",
+      "comments": "95",
+      "publish_time": "2026-02-4",
+      "content_text": "这是关于BMI的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "BMI",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_BMI_19",
+      "keyword": "BMI",
+      "title": "BMI求方法 #19",
+      "url": "https://www.xiaohongshu.com/explore/note_BMI_19",
+      "author": "用户46590",
+      "author_id": "user_74450",
+      "likes": "52",
+      "collects": "45",
+      "comments": "89",
+      "publish_time": "2026-02-1",
+      "content_text": "这是关于BMI的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "BMI",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_BMI_20",
+      "keyword": "BMI",
+      "title": "BMI怎么开始 #20",
+      "url": "https://www.xiaohongshu.com/explore/note_BMI_20",
+      "author": "用户89317",
+      "author_id": "user_28311",
+      "likes": "89",
+      "collects": "45",
+      "comments": "23",
+      "publish_time": "2026-02-3",
+      "content_text": "这是关于BMI的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "BMI",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_BMI_21",
+      "keyword": "BMI",
+      "title": "BMI求指导 #21",
+      "url": "https://www.xiaohongshu.com/explore/note_BMI_21",
+      "author": "用户94069",
+      "author_id": "user_91783",
+      "likes": "25",
+      "collects": "5",
+      "comments": "78",
+      "publish_time": "2026-02-4",
+      "content_text": "这是关于BMI的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "BMI",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_BMI_22",
+      "keyword": "BMI",
+      "title": "BMI有经验吗 #22",
+      "url": "https://www.xiaohongshu.com/explore/note_BMI_22",
+      "author": "用户49668",
+      "author_id": "user_95536",
+      "likes": "89",
+      "collects": "23",
+      "comments": "15",
+      "publish_time": "2026-02-11",
+      "content_text": "这是关于BMI的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "BMI",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_BMI_23",
+      "keyword": "BMI",
+      "title": "BMI求方法 #23",
+      "url": "https://www.xiaohongshu.com/explore/note_BMI_23",
+      "author": "用户29817",
+      "author_id": "user_31926",
+      "likes": "12",
+      "collects": "12",
+      "comments": "8",
+      "publish_time": "2026-02-6",
+      "content_text": "这是关于BMI的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "BMI",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_BMI_24",
+      "keyword": "BMI",
+      "title": "BMI求方法 #24",
+      "url": "https://www.xiaohongshu.com/explore/note_BMI_24",
+      "author": "用户95031",
+      "author_id": "user_51155",
+      "likes": "120",
+      "collects": "56",
+      "comments": "89",
+      "publish_time": "2026-02-14",
+      "content_text": "这是关于BMI的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "BMI",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_BMI_25",
+      "keyword": "BMI",
+      "title": "BMI求助帖 #25",
+      "url": "https://www.xiaohongshu.com/explore/note_BMI_25",
+      "author": "用户34944",
+      "author_id": "user_27444",
+      "likes": "25",
+      "collects": "45",
+      "comments": "3",
+      "publish_time": "2026-02-1",
+      "content_text": "这是关于BMI的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "BMI",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_BMI_26",
+      "keyword": "BMI",
+      "title": "BMI求指导 #26",
+      "url": "https://www.xiaohongshu.com/explore/note_BMI_26",
+      "author": "用户41115",
+      "author_id": "user_94058",
+      "likes": "52",
+      "collects": "12",
+      "comments": "89",
+      "publish_time": "2026-02-18",
+      "content_text": "这是关于BMI的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "BMI",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_BMI_27",
+      "keyword": "BMI",
+      "title": "BMI求方法 #27",
+      "url": "https://www.xiaohongshu.com/explore/note_BMI_27",
+      "author": "用户48130",
+      "author_id": "user_56055",
+      "likes": "25",
+      "collects": "12",
+      "comments": "15",
+      "publish_time": "2026-02-19",
+      "content_text": "这是关于BMI的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "BMI",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_BMI_28",
+      "keyword": "BMI",
+      "title": "BMI怎么开始 #28",
+      "url": "https://www.xiaohongshu.com/explore/note_BMI_28",
+      "author": "用户71367",
+      "author_id": "user_28857",
+      "likes": "89",
+      "collects": "45",
+      "comments": "15",
+      "publish_time": "2026-02-17",
+      "content_text": "这是关于BMI的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "BMI",
+        "减肥",
+        "求助"
+      ]
+    },
+    {
+      "note_id": "note_BMI_29",
+      "keyword": "BMI",
+      "title": "BMI求指导 #29",
+      "url": "https://www.xiaohongshu.com/explore/note_BMI_29",
+      "author": "用户40785",
+      "author_id": "user_92523",
+      "likes": "120",
+      "collects": "23",
+      "comments": "8",
+      "publish_time": "2026-02-4",
+      "content_text": "这是关于BMI的求助/咨询内容...",
+      "symptoms": [
+        "体重超标",
+        "代谢慢"
+      ],
+      "triggers": [
+        "饮食不规律"
+      ],
+      "solutions": [],
+      "products": [],
+      "content_type": "求助帖",
+      "target_audience": "减肥求助者",
+      "tags": [
+        "BMI",
+        "减肥",
+        "求助"
+      ]
+    }
+  ],
+  "source": "xiaohongshu",
+  "status": "demo_data"
+}
